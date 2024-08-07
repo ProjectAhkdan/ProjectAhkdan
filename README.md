@@ -57,18 +57,19 @@ I'm Ahkdan Prika N, Vocational High School Graduate in 2024 majoring in Basic Co
 <br/>
 
 <div align="center">
-  <!-- Example badges, replace with actual badge URLs -->
+  <!-- GitHub Stats Card -->
   <a href="https://github.com/DanssProject">
-    <img src="https://img.shields.io/github/followers/DanssProject?label=Followers&style=social" />
+    <img src="https://github-readme-stats.vercel.app/api?username=DanssProject&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" />
   </a>
+
+  <!-- GitHub Top Languages Card -->
   <a href="https://github.com/DanssProject">
-    <img src="https://img.shields.io/github/stars/DanssProject?label=Stars&style=social" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanssProject&layout=compact&theme=radical" alt="Top Languages" />
   </a>
+
+  <!-- GitHub Streak Stats -->
   <a href="https://github.com/DanssProject">
-    <img src="https://img.shields.io/github/forks/DanssProject?label=Forks&style=social" />
-  </a>
-  <a href="https://github.com/DanssProject">
-    <img src="https://img.shields.io/github/issues/DanssProject?label=Issues&style=social" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanssProject&theme=radical" alt="GitHub Streak Stats" />
   </a>
 </div>
 
