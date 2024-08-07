@@ -10,23 +10,23 @@
 
 # Welcome to My GitHub Profile! 👋
 
-I'm Ahkdan Prika N,Vocational High School Graduates in 2024 majoring in Basic Computer and Network Engineering who have more ability in using Winbox software to configure networks. And also have the ability and experience in designing, developing, and testing websites with the latest technologies. Have had and understand a little in using JavaScript, Typescript, CSS, and HTML programming languages. Also understand the React, Tailwind CSS, and Next js frameworks. Want to find more new challenges and new experiences related to how to optimize user experience.
+I'm Ahkdan Prika N, Vocational High School Graduate in 2024 majoring in Basic Computer and Network Engineering who has more ability in using Winbox software to configure networks. And also have the ability and experience in designing, developing, and testing websites with the latest technologies. Have had and understand a little in using JavaScript, TypeScript, CSS, and HTML programming languages. Also understand the React, Tailwind CSS, and Next.js frameworks. Want to find more new challenges and new experiences related to how to optimize user experience.
 
 ## About Me
 
-- 🌱 Currently I am learning and improving my skills in HTML, CSS, JavaScript programming languages ​​and React, Next js, Tailwind css frameworks.
+- 🌱 Currently I am learning and improving my skills in HTML, CSS, JavaScript programming languages and React, Next.js, Tailwind CSS frameworks.
 - 💼 Working as a frontend web developer
 - 💬 Feel free to reach out to me if you have any questions or discussions on:**Best practices in software architecture and design**, **Implementing agile methodologies in development teams**, **Optimizing performance in frontend web development**, **Integrating machine learning models into production systems**, **Career advice in the tech industry**
  
 <div align="center"> 
-  <a href="ahkdanprika01@gmail.com">
+  <a href="mailto:ahkdanprika01@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="www.linkedin.com/in/ahkdan-prikanurwicaksono-b1b0a9319" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a href="https://www.linkedin.com/in/ahkdan-prikanurwicaksono-b1b0a9319" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/DanssProject" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
 </div>
 
@@ -54,14 +54,28 @@ I'm Ahkdan Prika N,Vocational High School Graduates in 2024 majoring in Basic Co
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
-<br/><br/>
+<br/>
 
-<hr/>
+<div align="center">
+  <!-- Example badges, replace with actual badge URLs -->
+  <a href="https://github.com/DanssProject">
+    <img src="https://img.shields.io/github/followers/DanssProject?label=Followers&style=social" />
+  </a>
+  <a href="https://github.com/DanssProject">
+    <img src="https://img.shields.io/github/stars/DanssProject?label=Stars&style=social" />
+  </a>
+  <a href="https://github.com/DanssProject">
+    <img src="https://img.shields.io/github/forks/DanssProject?label=Forks&style=social" />
+  </a>
+  <a href="https://github.com/DanssProject">
+    <img src="https://img.shields.io/github/issues/DanssProject?label=Issues&style=social" />
+  </a>
+</div>
 
 <br/>
 
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'>
+  <img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+</a>
 </div>
-
-<br/>
