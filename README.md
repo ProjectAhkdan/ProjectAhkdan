@@ -80,3 +80,16 @@ I'm Ahkdan Prika N, Vocational High School Graduate in 2024 majoring in Basic Co
   <img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
 </a>
 </div>
+
+<h2 align="center">⚡ Activity ⚡</h2>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/DanssProject">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=DanssProject&theme=github" alt="GitHub Activity Graph" />
+  </a>
+</div>
+
+<br/>
+
