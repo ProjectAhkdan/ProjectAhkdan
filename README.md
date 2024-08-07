@@ -58,18 +58,18 @@ I'm Ahkdan Prika N, Vocational High School Graduate in 2024 majoring in Basic Co
 
 <div align="center">
   <!-- GitHub Stats Card -->
-  <a href="https://github.com/DanssProject">
-    <img src="https://github-readme-stats.vercel.app/api?username=DanssProject&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" />
+  <a href="https://github.com/ProjectAhkdan">
+    <img src="https://github-readme-stats.vercel.app/api?username=ProjectAhkdan&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" />
   </a>
 
   <!-- GitHub Top Languages Card -->
-  <a href="https://github.com/DanssProject">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanssProject&layout=compact&theme=radical" alt="Top Languages" />
+  <a href="https://github.com/ProjectAhkdan">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProjectAhkdan&layout=compact&theme=radical" alt="Top Languages" />
   </a>
 
   <!-- GitHub Streak Stats -->
   <a href="https://github.com/DanssProject">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanssProject&theme=radical" alt="GitHub Streak Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProjectAhkdan&theme=radical" alt="GitHub Streak Stats" />
   </a>
 </div>
 
