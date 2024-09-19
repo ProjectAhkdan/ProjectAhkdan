@@ -77,6 +77,6 @@ I'm Ahkdan Prika N, Vocational High School Graduate in 2024 majoring in Basic Co
 
 <div align="center">
 <a href=''>
-  <img height='64' style='border:0px;height:64px;' src='https://cdn.ko-fi.com/cdn/useruploads/2021/11/02/49f2c334-c37c-479e-bd76-23970ec98a56.png' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+  <img height='64' style='border:0px;height:64px;' src='https://cdn.ko-fi.com/cdn/useruploads/2021/11/02/49f2c334-c37c-479e-bd76-23970ec98a56.png](https://logowik.com/content/uploads/images/buy-me-a-coffee6984.jpg' border='0' alt='Buy Me a Coffee at ko-fi.com' />
 </a>
 </div>
